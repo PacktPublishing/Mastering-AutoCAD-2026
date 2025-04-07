@@ -1,8 +1,8 @@
-# Mastering AutoCAD 2025
+# Mastering AutoCAD 2026
 
 <a href="https://www.packtpub.com/en-us/product/mastering-autocad-2025-9781837639694"><img src="https://content.packt.com/_/image/original/B19422/cover_image.jpg?version=1739527220" alt="Book Name" height="256px" align="right"></a>
 
-This is the code repository for [Mastering AutoCAD 2025](https://www.packtpub.com/en-us/product/mastering-autocad-2025-9781837639694), published by Packt.
+This is the code repository for [Mastering AutoCAD 2026](https://www.packtpub.com/en-us/product/mastering-autocad-2025-9781837639694), published by Packt.
 
 **Level up your AutoCAD skills with advanced methods and tools, including AutoCAD Web and Trace**
 
